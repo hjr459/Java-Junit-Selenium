@@ -31,9 +31,9 @@
 ### Running Tests
 
 #####Tests in Parallel:
-	```
-	$ mvn test
-	```
+```
+$ mvn test
+```
 Sauce Labs Dashboard:
 https://saucelabs.com/beta/dashboard/
 
