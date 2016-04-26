@@ -59,7 +59,7 @@ public class SampleSauceTest implements SauceOnDemandSessionIdProvider {
     @Rule public TestName name = new TestName() {
         public String getMethodName() {
         		return String.format("%s : (%s %s %s)", super.getMethodName(), os, browser, version);
-        };
+        };  
     };
 
     /**
